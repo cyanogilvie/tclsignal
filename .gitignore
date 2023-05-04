@@ -32,3 +32,14 @@
 *.dSYM/
 
 *~
+
+# Vim swapfiles
+*.swp
+
+# Generated files
+Makefile
+autom4te.cache
+config.log
+config.status
+pkgIndex.tcl
+tclsignalConfig.sh
